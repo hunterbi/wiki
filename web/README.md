@@ -19,7 +19,7 @@
              
 
 #### backend: 
- * Django
+ * Django             ×
 
 #### database:
  * Mysql              √
